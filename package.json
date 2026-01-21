@@ -2,7 +2,7 @@
   "name": "rolimons-scraper2",
   "version": "1.0.0",
   "description": "Rolimons scraper that finds Discord usernames",
-  "main": "scrappe2r.js",
+  "main": "scrapper2.js",
   "scripts": {
     "start": "node scrapper2.js"
   },
